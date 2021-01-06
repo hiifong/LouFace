@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ArcFaceEngine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FaceManDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\xmp\AVPlayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UTN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LouFaceDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LouFace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VideoPlayerDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inc\amcomdef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\inc\amcomdef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ArcFaceEngine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\inc\pro\arcsoft_face_sdk.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\inc\free\arcsoft_face_sdk.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\arcsoft_face_sdk.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\asvloffscreen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\inc\asvloffscreen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\merror.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\inc\merror.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xmp\AVPlayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UTN.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\vlc\vlc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\inc\LouFace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\inc\LouFaceDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\inc\VideoPlayerDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\inc\FaceManDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\favicon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\LouFace">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Backgroud.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\camera.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\camera.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon2.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\logo.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\logo.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{800309b0-fb92-4ace-8a0c-c23c551d9ab6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{63eb0d46-6594-495a-8776-08c1cc017351}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{d1dab251-0d22-446b-98f5-d85beb3a0648}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LouFace.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\LouFace.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>

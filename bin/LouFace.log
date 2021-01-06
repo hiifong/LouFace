@@ -1,0 +1,19 @@
+﻿生成启动时间为 2020/4/24 12:28:33。
+     1>项目“D:\最终：我的毕业设计\我的迭代\Arcface视频人脸初步（人脸文件保存+access数据库 vlc完成 播放语音 自动扫描视频）plus\LouFace\LouFace.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp".\bin\LouFace.pch" /Fo".\bin\\" /Fd".\bin\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt include\xmp\AVPlayer.cpp
+         AVPlayer.cpp
+     1>d:\最终：我的毕业设计\我的迭代\arcface视频人脸初步（人脸文件保存+access数据库 vlc完成 播放语音 自动扫描视频）plus\louface\include\xmp\avplayer.cpp(2): warning C4627: “#include "AVPlayer.h"”: 在查找预编译头使用时跳过
+         d:\最终：我的毕业设计\我的迭代\arcface视频人脸初步（人脸文件保存+access数据库 vlc完成 播放语音 自动扫描视频）plus\louface\include\xmp\avplayer.cpp(2): note: 将指令添加到“stdafx.h”或重新生成预编译头
+     1>d:\最终：我的毕业设计\我的迭代\arcface视频人脸初步（人脸文件保存+access数据库 vlc完成 播放语音 自动扫描视频）plus\louface\include\xmp\avplayer.cpp(3): warning C4627: “#include <cmath>”: 在查找预编译头使用时跳过
+         d:\最终：我的毕业设计\我的迭代\arcface视频人脸初步（人脸文件保存+access数据库 vlc完成 播放语音 自动扫描视频）plus\louface\include\xmp\avplayer.cpp(3): note: 将指令添加到“stdafx.h”或重新生成预编译头
+     1>d:\最终：我的毕业设计\我的迭代\arcface视频人脸初步（人脸文件保存+access数据库 vlc完成 播放语音 自动扫描视频）plus\louface\include\xmp\avplayer.cpp(5): warning C4627: “#include "vlc.h"”: 在查找预编译头使用时跳过
+         d:\最终：我的毕业设计\我的迭代\arcface视频人脸初步（人脸文件保存+access数据库 vlc完成 播放语音 自动扫描视频）plus\louface\include\xmp\avplayer.cpp(5): note: 将指令添加到“stdafx.h”或重新生成预编译头
+     1>d:\最终：我的毕业设计\我的迭代\arcface视频人脸初步（人脸文件保存+access数据库 vlc完成 播放语音 自动扫描视频）plus\louface\include\xmp\avplayer.cpp(260): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+     1>已完成生成项目“D:\最终：我的毕业设计\我的迭代\Arcface视频人脸初步（人脸文件保存+access数据库 vlc完成 播放语音 自动扫描视频）plus\LouFace\LouFace.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.10
